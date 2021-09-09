@@ -5,6 +5,7 @@ proposed in *Advanced topics in types and programming languages, Chapter 10*.
 
 ## Syntax
 
+```
   x, y ::=                 identifiers
            z               variable
            c               constant
@@ -20,3 +21,4 @@ proposed in *Advanced topics in types and programming languages, Chapter 10*.
            \z. t           function
            C v1 ... vk     data
            D v1 ... vk     partial elimination
+```
